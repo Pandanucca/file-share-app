@@ -1,0 +1,6 @@
+finalproject.zip
+node_modules
+*.swo
+*.swp
+uploads
+documentation
